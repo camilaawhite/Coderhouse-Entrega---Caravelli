@@ -8,7 +8,7 @@ function login() {
 
     // Verificación de usuario y contraseña
     let validUsername = 'usuario'; 
-    let validPassword = '1234';   
+    let validPassword = '1234';  
 
     if (username === validUsername && password === validPassword) {
         window.location.href = 'profile.html'; 
